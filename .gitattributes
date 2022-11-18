@@ -17,7 +17,7 @@ test1 (int a, int b, int c, int d)
 
 }
 
-test1 (int a, int b, int c, int d)
+test2 (int a, int b, int c, int d)
 {
 
 }
